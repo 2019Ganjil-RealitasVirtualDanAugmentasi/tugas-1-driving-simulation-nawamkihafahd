@@ -70,19 +70,19 @@
     <Compile Include="Assets\Oculus\VR\Scripts\Editor\OVRManagerEditor.cs" />
     <None Include="Assets\Oculus\VR\Editor\AndroidManifest.OVRSubmission.xml" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Unity/SimulasiKP/SImulasiKP/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/HP 14 - BS001TX/Documents/GitHub/tugas-1-driving-simulation-nawamkihafahd/SImulasiKP/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>E:/Unity/SimulasiKP/SImulasiKP/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/HP 14 - BS001TX/Documents/GitHub/tugas-1-driving-simulation-nawamkihafahd/SImulasiKP/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/Unity/SimulasiKP/SImulasiKP/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/HP 14 - BS001TX/Documents/GitHub/tugas-1-driving-simulation-nawamkihafahd/SImulasiKP/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Unity/SimulasiKP/SImulasiKP/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/HP 14 - BS001TX/Documents/GitHub/tugas-1-driving-simulation-nawamkihafahd/SImulasiKP/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>E:/Unity/SimulasiKP/SImulasiKP/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/HP 14 - BS001TX/Documents/GitHub/tugas-1-driving-simulation-nawamkihafahd/SImulasiKP/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/Unity/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -325,19 +325,19 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>E:/Unity/SimulasiKP/SImulasiKP/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/HP 14 - BS001TX/Documents/GitHub/tugas-1-driving-simulation-nawamkihafahd/SImulasiKP/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>E:/Unity/SimulasiKP/SImulasiKP/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/HP 14 - BS001TX/Documents/GitHub/tugas-1-driving-simulation-nawamkihafahd/SImulasiKP/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>E:/Unity/SimulasiKP/SImulasiKP/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/HP 14 - BS001TX/Documents/GitHub/tugas-1-driving-simulation-nawamkihafahd/SImulasiKP/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>E:/Unity/SimulasiKP/SImulasiKP/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/HP 14 - BS001TX/Documents/GitHub/tugas-1-driving-simulation-nawamkihafahd/SImulasiKP/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>E:/Unity/SimulasiKP/SImulasiKP/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/HP 14 - BS001TX/Documents/GitHub/tugas-1-driving-simulation-nawamkihafahd/SImulasiKP/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>E:/Unity/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
